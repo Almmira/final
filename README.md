@@ -109,14 +109,24 @@ Using the acquired skills and knowledge, I can create and solve simple problems 
 5. References
 
 Alan Ihre & Isak Engstrom. (2019). Predicting house prices with machine learning methods. https://www.diva-portal.org/smash/get/diva2:1354741/FULLTEXT01.pdf.
+
 Arden Dertat. (2017). Applied Deep Learning, Part 1: Artificial Neural Networks. https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6.
+
 ConvertCSV. (2023) "JSON to CSV Converter." https://www.convertcsv.com/json-to-csv.htm.
+
 Kaggle. Overfitting and Underfitting. https://www.kaggle.com/code/ryanholbrook/overfitting-and-underfitting.
+
 Keras. EarlyStopping callback. https://keras.io/api/callbacks/early_stopping/.
+
 Sharmasapna. (2022). House price prediction using The Ames Housing dataset. https://github.com/sharmasapna/house-price-prediction
+
 Shreyas Raghavan. (2017). Create a model to predict house prices using Python. https://github.com/Shreyas3108/house-price-prediction.
+
 Stats Wire. (2022). House Price Prediction Regression | Python | TensorFlow. https://www.youtube.com/watch?v=N942Bi0_FnI.
+
 TahaSherif. (2020). Predicting House Prices with Regression using Tensorflow. https://github.com/TahaSherif/Predicting-House-Prices-with-Regression-Tensorflow.
+
 Techopedia. (2020). Rectified Linear Unit (ReLU). https://www.techopedia.com/definition/33346/rectified-linear-unit-relu#:~:text=The%20rectified%20linear%20unit%20(ReLU,helping%20to%20deliver%20an%20output.
+
 Tensordroid. (2021). House Price Prediction Model overview using Tensorflow. https://www.youtube.com/watch?v=90xKZBZWbKg.
 
