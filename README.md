@@ -1,5 +1,25 @@
-#A PROJECT REPORT
-#ON
-#“HOUSE PRICE PREDICTION” using TensorFlow.
-#For ‘Advanced Programming’ Course
+A PROJECT REPORT
+ON
+“HOUSE PRICE PREDICTION” using TensorFlow.
+For ‘Advanced Programming’ Course
 
+
+ 
+
+
+
+BY
+TOKTASYN ALMIRA
+IT-2107
+
+
+
+
+SUPERVISED BY
+SULTANMURAT YELEU
+Senior-lecturer
+
+
+BSc IN COMPUTER SCIENCE, 2nd YEAR
+ASTANA IT UNIVERSITY, ASTANA, KAZAKHSTAN 
+2023
