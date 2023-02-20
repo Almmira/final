@@ -41,6 +41,9 @@ Google Colab was used for the project, as well as libraries: TensorFlow, Keras, 
 2.1 Information about the data (probably analysis of the data with some visualizations)
 
 For the project, I used the BeautifulSoup library (Python). The data was taken from the website Krisha.kz — this is the largest website of ads for the sale and rental of apartments, houses, and other real estates in Kazakhstan. I chose locally the data only about real estate in Astana because I was wondering what prices are here. The amount of data is 2.2k.
+![image](https://user-images.githubusercontent.com/99726193/220058160-970cd8bd-10f4-4277-bb8a-be18a1175c3e.png)
+![image](https://user-images.githubusercontent.com/99726193/220058179-81a1fb9a-a67d-4689-9532-f1c46164268e.png)
+![image](https://user-images.githubusercontent.com/99726193/220058195-0406cff5-cd42-46b6-b29a-6d01044d9dc1.png)
 
 P.(1-3) Сode for parsing. 
 
