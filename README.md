@@ -3,6 +3,7 @@ ON
 “HOUSE PRICE PREDICTION” using TensorFlow.
 For ‘Advanced Programming’ Course
 
+![Algorithm schema](./Desktop/Untitled.jpg)
 
  
 
