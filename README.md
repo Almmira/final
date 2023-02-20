@@ -1,2 +1,5 @@
-# final
-Final Project for ADVP course 
+                 #A PROJECT REPORT
+                       #ON
+    #“HOUSE PRICE PREDICTION” using TensorFlow.
+         #For ‘Advanced Programming’ Course
+
