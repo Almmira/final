@@ -41,29 +41,44 @@ Google Colab was used for the project, as well as libraries: TensorFlow, Keras, 
 2.1 Information about the data (probably analysis of the data with some visualizations)
 
 For the project, I used the BeautifulSoup library (Python). The data was taken from the website Krisha.kz — this is the largest website of ads for the sale and rental of apartments, houses, and other real estates in Kazakhstan. I chose locally the data only about real estate in Astana because I was wondering what prices are here. The amount of data is 2.2k.
+
 ![image](https://user-images.githubusercontent.com/99726193/220058160-970cd8bd-10f4-4277-bb8a-be18a1175c3e.png)
 ![image](https://user-images.githubusercontent.com/99726193/220058179-81a1fb9a-a67d-4689-9532-f1c46164268e.png)
 ![image](https://user-images.githubusercontent.com/99726193/220058195-0406cff5-cd42-46b6-b29a-6d01044d9dc1.png)
 
 P.(1-3) Сode for parsing. 
 
+![image](https://user-images.githubusercontent.com/99726193/220058352-4bc5129c-9700-43d4-85c7-49f4d76f5f49.png)
+
 P.4 How the data looked initially.
- 
+
+![image](https://user-images.githubusercontent.com/99726193/220058376-d71d3517-1da8-44f1-92b2-f327c67c1a3b.png)
+
 P.5 How the data looked after I corrected it.
+
+![image](https://user-images.githubusercontent.com/99726193/220058429-2e0d1e2d-6aa7-4347-b907-c34cb2e456b4.png)
  
 P.6 How the data looked after formatting in CSV.
 
 I used this site to convert a file from json to csv - https://www.convertcsv.com/json-to-csv.htm 
 
+![image](https://user-images.githubusercontent.com/99726193/220058466-a07d0ebd-f670-4d5f-a083-5c123af64221.png)
+
 P.7 Analysis of the data.
  
+![image](https://user-images.githubusercontent.com/99726193/220058511-de373e5c-9960-4bfd-8076-082514339f66.png)
+ 
 P.8 Data visualization (MongoDB): frequency by year.
+
+![image](https://user-images.githubusercontent.com/99726193/220058540-51b733a8-cbc3-48f6-be34-9bac8b2363c0.png)
  
 P.9 Data visualization (MongoDB): frequency by number of rooms.
 
 2.2 Description of the ML models you used with some theory.
 
 I have created a sequential model for the project. It allows me to define a neural network sequentially, passing through several neural layers, one after the other. There are four layers in my model: 1 layer contains 4 inputs and the Relu activation function - which is one of the most common activation functions in machine learning models. Layers 2 and 3 also contain a Relu activation function. The final level will output the predicted value of the target variable. The ReLU activation functions help to introduce non-linearity into the model. The Model also uses the standard error loss function (MSE), which measures the difference between the predicted and actual values of the target variable. The optimizer used is Adam, which is a popular optimization algorithm for neural networks. The goal of the optimizer is to adjust weights and offsets in the model during training to minimize the loss function. The Adam optimizer helps to ensure effective training. 
+ 
+![image](https://user-images.githubusercontent.com/99726193/220058592-a573f271-6804-405a-9e39-608766e76d5c.png)
  
 P.10 What a sequential model looks like in theory.
 
@@ -73,8 +88,13 @@ P.10 What a sequential model looks like in theory.
 
 I was able to find the accuracy of prediction from a personal dataset in my work, here you can see confirmation of this.
 
+![image](https://user-images.githubusercontent.com/99726193/220058659-6ffebd3e-d8ac-40ee-90fc-5db73ae36df3.png)
+![image](https://user-images.githubusercontent.com/99726193/220058674-50c93afb-ea3a-453e-8016-1de8e16ed61d.png)
+
 P. (11-12) My learning Curves (plotting the loss on the training set epoch by epoch.)
- 
+
+![image](https://user-images.githubusercontent.com/99726193/220058709-b0f9de27-9fe4-4228-b3e0-7c02f3eb8158.png)
+
 P. 13 Predicted Table
 4.Discussion
 
