@@ -13,6 +13,7 @@ GITHUB LINK: https://github.com/Almmira/final
 1.	Introduction
 
 1.1 Problem
+
 Initially, I was in a couple, but we decided to do each a separate project. 
 My topic is the prediction of housing prices, which involves the development of a model for forecasting housing prices. This model is crucial for providing important information and enhancing the efficiency of the real estate market. The main objective of my project is to assist individuals in finding their ideal home, which is a future home. As housing prices continue to escalate each year, there is a need for a reliable mechanism that can accurately forecast future housing prices. Real estate appraisers, landowners, and others can use the housing price forecasting model to estimate the value of a house and determine a suitable sale price. This will enable prospective buyers to make an informed decision regarding the best time to purchase a house. Although the physical attributes, style, and location are the primary factors that determine the price of a house, there are various individual factors that can also affect its price.
 
