@@ -96,6 +96,7 @@ P. (11-12) My learning Curves (plotting the loss on the training set epoch by ep
 ![image](https://user-images.githubusercontent.com/99726193/220058709-b0f9de27-9fe4-4228-b3e0-7c02f3eb8158.png)
 
 P. 13 Predicted Table
+
 4.Discussion
 
 4.1 Critical review of results
