@@ -36,8 +36,8 @@ Predicting house prices using Linear Regression and Gradient Boosting Regressor 
 In my project, I used my own dataset, which I got by scraping the site using BeautifulSoup. It took me a couple of days. Since the output was not quite correct for use in training the model, I redid it manually, it also took a couple of days, as my eyes got tired quickly. An additional problem was that my laptop could not withstand a load of 5,000 documents, so I reduced the amount of data. I decided to focus only on the city of Astana, as it was interesting to find out about prices here. After watching a lot of training videos and websites with additional information, I started creating the project. I uploaded the data as a CSV file.
 Google Colab was used for the project, as well as libraries: TensorFlow, Keras, Pandas, and Matplotlib.  My model consists of 4 layers, I also used RELU as an activation function. My model is compiled using the mean square error (MSE) as a loss function, which is a common loss function for regression problems. For optimization, I used "Adam" - an optimization algorithm.  Before training, I normalized the data, for training I used 0.1 percent of the data, which allowed me to improve accuracy with a small dataset. To prevent overfitting, I used EarlyStopping, which tracked the loss of validation ('val_loss') during training and stopped the learning process if the loss of validation did not improve for 6 consecutive periods. I used 1000 epochs. I chose all these numbers because they gave the best result based on my dataset.
 
+2. Data and Methods
 
-2.	Data and Methods
 2.1 Information about the data (probably analysis of the data with some visualizations)
 
 For the project, I used the BeautifulSoup library (Python). The data was taken from the website Krisha.kz — this is the largest website of ads for the sale and rental of apartments, houses, and other real estates in Kazakhstan. I chose locally the data only about real estate in Astana because I was wondering what prices are here. The amount of data is 2.2k.
@@ -97,7 +97,7 @@ P. (11-12) My learning Curves (plotting the loss on the training set epoch by ep
 
 P. 13 Predicted Table
 
-4.Discussion
+4. Discussion
 
 4.1 Critical review of results
 
