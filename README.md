@@ -28,22 +28,6 @@ YT-VIDEO: https://youtu.be/ozzoCG8CbXE
 
 GITHUB LINK: https://github.com/Almmira/final 
 
-1.	Introduction
-1.1.	Problem	3
-1.2.	Literature review with links (another solutions) ...………………………...3
-1.3.	Current work (description of the work) ...………………………………....4
-2.	Data and Methods
-2.1.	 Information about the data (probably analysis of the data with some visualizations)	5
-2.2	  Description of the ML models you used with some theory	7
-3.	Results
-3.1.	Results with tables, pictures, and interesting numbers	9
-4.	Discussion
-4.1 Critical review of results…………………………………………….……10
-4.2 Next steps…………………………………………………………………10
-  5. References ………………………………………………………………..…11
-
-
-
 #1.	Introduction
 
 1.1 Problem
